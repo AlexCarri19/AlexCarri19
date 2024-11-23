@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is where the fun begins...
 
 <!--
 **AlexCarri19/AlexCarri19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
